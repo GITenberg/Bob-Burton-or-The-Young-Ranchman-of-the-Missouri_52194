@@ -1,0 +1,41 @@
+_repo: Bob-Burton-or-The-Young-Ranchman-of-the-Missouri_52194
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Alger, Horatio, Jr.
+    aliases:
+    - Jr., Horatio Alger
+    - Putnam, Arthur Lee
+    - Preston, Charles F.
+    - Starr, Julian
+    - Alger, Horatio
+    birthdate: 1832
+    deathdate: 1899
+    gutenberg_agent_id: '168'
+    url: http://www.gutenberg.org/2009/agents/168
+    wikipedia: http://en.wikipedia.org/wiki/Horatio_Alger,_Jr.
+description: ''
+gutenberg_issued: '2016-05-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52194'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure and adventurers -- Juvenile fiction'
+- !lcsh 'Middle West -- Juvenile fiction'
+- !lcsh 'Real estate agents -- Juvenile fiction'
+- !lcsh 'Young men -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Conspiracies -- Juvenile fiction'
+- !lcsh 'Bildungsromans'
+- !lcc 'PZ'
+- !lcsh 'Success -- Juvenile fiction'
+- !lcsh 'Families -- Juvenile fiction'
+- !lcsh 'Ranches -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Extortion -- Juvenile fiction'
+- GITenberg
+title: Bob Burton; or, The Young Ranchman of the Missouri
+url: http://www.gutenberg.org/ebooks/52194
